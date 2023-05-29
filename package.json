@@ -7,7 +7,7 @@
     "dev": "tsx watch src/server.ts",
     "lint": "eslint src --ext .ts --fix",
     "build": "tsup src --out-dir build",
-    "start": "node build/src/server.js"
+    "start": "node build/server.js"
   },
   "keywords": [],
   "author": "",
