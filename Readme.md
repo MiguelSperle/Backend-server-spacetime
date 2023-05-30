@@ -1,7 +1,7 @@
 # English 
 <h2>Backend Server - ( NLW spacetime )</h2>
 
-<p>This project was made during the event called of NLW - spacetime, at rocketseat platform.</p>
+This project was made during the event called of NLW - spacetime, at rocketseat platform.
 
 # how I used this project
 
