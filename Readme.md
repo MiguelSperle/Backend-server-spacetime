@@ -8,6 +8,7 @@ This project was made during the event called of NLW - spacetime, at rocketseat 
 I have two front-end projects, of type mobile and web, I was able to use both in this same backend project.
 
 <h2>Built with</h2>
+
 <ul>
   <li>Node Js</li>
   <li>Fastify</li>
@@ -17,3 +18,10 @@ I have two front-end projects, of type mobile and web, I was able to use both in
   <li>Axios</li>
   <li>Zod</li>
 </ul>
+
+<h2>How can you clone this project, it's simple</h2>
+
+```
+git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
+```
+
