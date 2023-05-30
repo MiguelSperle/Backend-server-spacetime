@@ -23,5 +23,11 @@ I have two front-end projects, of type mobile and web, I was able to use both in
 
 ```
 git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
+
+cd Server
+
+npm install or yarn
+
+npm run start / yarn run start
 ```
 
