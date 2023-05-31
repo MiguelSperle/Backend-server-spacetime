@@ -23,13 +23,20 @@ I have two front-end projects, of type mobile and web, I was able to use both in
 
 ```
 git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
-
+```
+```
 cd Backend-server-spacetime
+```
 
+```
 npm install or yarn install
+```
 
+```
 npx prisma migrate deploy ( aplica as migrações do Prisma em um banco de dados )
+```
 
+```
 npm run start / yarn run start
 ```
 
