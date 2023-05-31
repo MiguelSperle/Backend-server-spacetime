@@ -22,13 +22,13 @@ I have two front-end projects, of type mobile and web, I was able to use both in
 <h2>How can you clone this project, it's simple</h2>
 
 
-<p>clone the repository</p>
+<p>Clone the repository</p>
 
 ```
 git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
 ```
 
-<p>access at folder</p>
+<p>Access at folder</p>
 
 ```
 cd Backend-server-spacetime
@@ -41,7 +41,7 @@ cd Backend-server-spacetime
 npm install or yarn install
 ```
 
-<p>now, you're going to use this command for datas of bank</p>
+<p>Now, you're going to use this command for datas of bank</p>
 
 ```
 npx prisma migrate deploy
@@ -49,7 +49,7 @@ npx prisma migrate deploy
 
 
 
-<p>start the project</p>
+<p>Start the project</p>
 
 ```
 npm run start / yarn run start
