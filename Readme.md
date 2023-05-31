@@ -28,6 +28,8 @@ cd Backend-server-spacetime
 
 npm install or yarn install
 
+npx prisma migrate deploy ( aplica as migrações do Prisma em um banco de dados )
+
 npm run start / yarn run start
 ```
 
