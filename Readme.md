@@ -36,15 +36,13 @@ npm install or yarn install
 
 
 <p>now, you're going to use this command for datas of bank</p>
-```shell
 npx prisma migrate deploy
-```
+
 
 
 <p>start the project</p>
-```shell
 npm run start / yarn run start
-```
+
 
 <h3>Now, you're going to use this command</h3>
 
