@@ -23,8 +23,9 @@ I have two front-end projects, of type mobile and web, I was able to use both in
 
 
 <p>clone the repository</p>
+```js
 git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
-
+```
 
 
 <p>access at folder</p>
