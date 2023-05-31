@@ -21,6 +21,10 @@ I have two front-end projects, of type mobile and web, I was able to use both in
 
 <h2>How can you clone this project, it's simple</h2>
 
+```shell
+docker compose up
+ ```
+
 <p>clone the repository</p>
 ```git clone https://github.com/MiguelSperle/Backend-server-spacetime.git```
 
