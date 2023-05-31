@@ -56,7 +56,7 @@ npm run start / yarn run start
 ```
 
 
-<h3>Now, you're going to use this command</h3>
+<h2>Now, you're going to use this command</h2>
 <p>Remember, to use the front-end project you must first run this project in your computer</p>
 
 
