@@ -41,7 +41,7 @@ cd Backend-server-spacetime
 npm install or yarn install
 ```
 
-<p>Now, you're going to use this command for datas of bank</p>
+<p>Now, you're going to use this command for database</p>
 
 ```
 npx prisma migrate deploy
