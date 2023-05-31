@@ -26,7 +26,9 @@ docker compose up
  ```
 
 <p>clone the repository</p>
-```git clone https://github.com/MiguelSperle/Backend-server-spacetime.git```
+```text
+git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
+```
 
 
 <p>access at folder</p>
