@@ -26,22 +26,18 @@ I have two front-end projects, of type mobile and web, I was able to use both in
 git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
 ```
 <p>access at folder</p>
-```
 cd Backend-server-spacetime
-```
+
 
 <p>install dependencies</p>
-```
 npm install or yarn install
-```
+
 <p>now, you're going to use this command for datas of bank</p>
-```
 npx prisma migrate deploy ( aplica as migrações do Prisma em um banco de dados )
-```
+
+
 <p>start the project</p>
-```
 npm run start / yarn run start
-```
 
 <h3>Now, you're going to use this command</h3>
 
