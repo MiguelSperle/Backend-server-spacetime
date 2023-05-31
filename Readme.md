@@ -60,7 +60,13 @@ npm run start / yarn run start
 <p>Remember, to use the front-end project you must first run this project in your computer.</p>
 
 
+# Portuguese 
 
+Este projeto foi feito durante o evento chamado de NLW - spacetime, na plataforma rocketseat.
+
+<h2>como eu usei este projeto</h2>
+
+Eu tenho dois projetos front-end, do tipo mobile e web, consegui utilizar ambos neste mesmo projeto backend.
 
 
 
