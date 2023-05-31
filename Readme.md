@@ -21,7 +21,7 @@ I have two front-end projects, of type mobile and web, I was able to use both in
 
 <h2>How can you clone this project, it's simple</h2>
 
-```
+
 <p>clone the repository</p>
 git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
 
@@ -36,10 +36,13 @@ npm install or yarn install
 
 
 <p>now, you're going to use this command for datas of bank</p>
-npx prisma migrate deploy ( aplica as migrações do Prisma em um banco de dados )
+```shell
+npx prisma migrate deploy
+```
 
 
 <p>start the project</p>
+```shell
 npm run start / yarn run start
 ```
 
