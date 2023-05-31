@@ -28,20 +28,20 @@ I have two front-end projects, of type mobile and web, I was able to use both in
 git clone https://github.com/MiguelSperle/Backend-server-spacetime.git
 ```
 
-<p> Access at folder</p>
+<p> 📂 Access at folder</p>
 
 ```
 cd Backend-server-spacetime
 ```
 
 
-<p>install dependencies</p>
+<p> 📡 install dependencies</p>
 
 ```
 npm install or yarn install
 ```
 
-<p>Now, you're going to use this command for database</p>
+<p>📡 Now, you're going to use this command for database</p>
 
 ```
 npx prisma migrate deploy
@@ -49,7 +49,7 @@ npx prisma migrate deploy
 
 
 
-<p>Start the project</p>
+<p> ⭐ Start the project</p>
 
 ```
 npm run start / yarn run start
