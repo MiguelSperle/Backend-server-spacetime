@@ -308,8 +308,8 @@ export async function VerifyUserAgente(
     env.GITHUB_CLIENT_ID = env.GITHUB_WEB_CLIENT_ID
     env.GITHUB_CLIENT_SECRET = env.GITHUB_WEB_CLIENT_SECRET
   } else if (requestOrigin && requestOrigin.includes('mobile')) {
-    env.GITHUB_CLIENT_ID = env.GITHUB_MOBILE_CLIENT_ID
-    env.GITHUB_CLIENT_SECRET = env.GITHUB_MOBILE_CLIENT_SECRET
+    env.GITHUB_CLIENT_ID_MOBILE = env.GITHUB_MOBILE_CLIENT_ID
+    env.GITHUB_CLIENT_SECRET_MOBILE = env.GITHUB_MOBILE_CLIENT_SECRET
   } else {
     replay.status(400).send({ message: 'Invalid user agent' })
   }
