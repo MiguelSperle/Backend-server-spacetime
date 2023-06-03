@@ -65,7 +65,7 @@ npm run start / yarn run start
 <p>You must have two apps in Oauth Apps, the first is for web and the second is for mobile. </p>
 <p>To have client_id and client_secret, you must create a Oauth Apps in developer settings on github and you're going to copy.</p>
 
-Configuration in Oauth Application:
+Configuration in Oauth Application (web):
 
 ```
 Application name: name you want
@@ -77,6 +77,20 @@ Homepage URL: http://localhost:3000
 
 ```
 Authorization callback URL: http://localhost:3000/api/auth/callback
+```
+
+Configuration in Oauth Application (Mobile):
+
+```
+Application name: name you want
+```
+
+```
+Homepage URL: http://localhost:3000
+```
+
+```
+Authorization callback URL: exp://YOUR IP:19000
 ```
 
 <h2>File .env on backend project</h2>
