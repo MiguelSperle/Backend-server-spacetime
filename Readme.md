@@ -62,7 +62,7 @@ npm run start / yarn run start
 
 
 <h2>Oauth Application</h2>
-<p>To have client_id and client_secret, you must to create a Oauth Apps in developer settings on github  so you're goint to copy.</p>
+<p>To have client_id and client_secret, you must to create a Oauth Apps in developer settings on github and you're goint to copy.</p>
 
 Configuration in Oauth Application:
 
