@@ -62,7 +62,8 @@ npm run start / yarn run start
 
 
 <h2>Oauth Application</h2>
-<p>To have client_id and client_secret, you must to create a Oauth Apps in developer settings on github and you're going to copy.</p>
+<p>You must have two apps in Oauth Apps, the first is for web and the second is for mobile. </p>
+<p>To have client_id and client_secret, you must create a Oauth Apps in developer settings on github and you're going to copy.</p>
 
 Configuration in Oauth Application:
 
@@ -98,7 +99,8 @@ GITHUB_CLIENT_SECRET="1234567890abcdefg1234" ``` This number is example ```
 ```
 
 <h2>Attention</h2>
-<p>If you wanta to use the web project, you must comment the env mobile 
+<p>
+If you wanta to use the web project, you must comment the env mobile 
 and if you want to use the mobile project, you must comment the env web.
 </p>
 
