@@ -61,10 +61,10 @@ npm run start / yarn run start
 
 
 
-<h2>File .env</h2>
-<p>to have client_id and client_secret, you must to create a Oauth Apps in developer settings so you're goint to copy.</p>
+<h2>Oauth Application</h2>
+<p>to have client_id and client_secret, you must to create a Oauth Apps in developer settings on github  so you're goint to copy.</p>
 
-Configuration:
+Configuration in Oauth Application:
 
 ```
 Application name: name you want
@@ -77,6 +77,8 @@ Homepage URL: http://localhost:3000
 ```
 Authorization callback URL: http://localhost:3000/api/auth/callback
 ```
+
+<h2>File .env</h2>
 
 ```
 # Database
@@ -95,9 +97,9 @@ GITHUB_CLIENT_ID=123456789 ``` This number is example ```
 GITHUB_CLIENT_SECRET="1234567890abcdefg1234" ``` This number is example ```
 ```
 
-<h2>attention</h2>
-<p>If you wanta to use the web project, you must comment env mobile 
-and if you want to use the mobile project, you must comment env web.
+<h2>Attention</h2>
+<p>If you wanta to use the web project, you must comment the env mobile 
+and if you want to use the mobile project, you must comment the env web.
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------
