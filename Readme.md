@@ -55,12 +55,6 @@ npx prisma migrate deploy
 npm run start / yarn run start
 ```
 
-
-<h2>Now, for finish...</h2>
-<p>Remember, to use the front-end project you must first run this project in your computer.</p>
-
-
-
 <h2>Oauth Application</h2>
 <p>You must have two apps in Oauth Apps, the first is for web and the second is for mobile. </p>
 <p>To have client_id and client_secret, you must create a Oauth Apps in developer settings on github and you're going to copy.</p>
@@ -117,6 +111,9 @@ GITHUB_CLIENT_SECRET="1234567890abcdefg1234" ``` This number is example ```
 If you wanta to use the web project, you must comment the env mobile 
 and if you want to use the mobile project, you must comment the env web.
 </p>
+
+<h2>Now, for finish...</h2>
+<p>Remember, to use the front-end project you must first run this project in your computer.</p>
 
 -----------------------------------------------------------------------------------------------------------------------
 
