@@ -108,8 +108,8 @@ GITHUB_CLIENT_SECRET="1234567890abcdefg1234" ``` This number is example ```
 
 <h2>Attention</h2>
 <p>
-If you wanta to use the web project, you must comment the env mobile 
-and if you want to use the mobile project, you must comment the env web.
+If you wanta to use the web project, you must comment the code env mobile 
+and if you want to use the mobile project, you must comment the code env web.
 </p>
 
 <h2>Now, for finish...</h2>
