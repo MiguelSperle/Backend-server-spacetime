@@ -52,7 +52,7 @@ npx prisma migrate deploy
 <p> ⭐ Start the project</p>
 
 ```
-npm run start / yarn run start
+npm run dev / yarn run dev
 ```
 
 <h2>Oauth Application</h2>
