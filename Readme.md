@@ -59,6 +59,48 @@ npm run start / yarn run start
 <h2>Now, for finish...</h2>
 <p>Remember, to use the front-end project you must first run this project in your computer.</p>
 
+
+
+<h2>File .env</h2>
+<p>to have client_id and client_secret, you must to create a Oauth Apps in developer settings </p>
+
+configuration: 
+
+```
+Application name: name you want
+```
+
+```
+Homepage URL: http://localhost:3000
+
+```
+
+```
+Authorization callback URL: http://localhost:3000/api/auth/callback
+```
+
+```
+# Database
+DATABASE_URL="file:./dev.db"
+```
+
+```
+#  Github (web)
+GITHUB_CLIENT_ID=123456789 
+GITHUB_CLIENT_SECRET="1234567890abcdefg1234"
+```
+
+```
+# Github (mobile)
+GITHUB_CLIENT_ID=123456789
+GITHUB_CLIENT_SECRET="1234567890abcdefg1234"
+```
+
+<h2>attention</h2>
+<p>If you wanta to use the web project, you must comment env mobile 
+and if you want to use the mobile project, you must comment env web.
+</p>
+
 -----------------------------------------------------------------------------------------------------------------------
 
 # Portuguese 
