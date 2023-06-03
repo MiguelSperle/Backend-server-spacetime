@@ -62,9 +62,9 @@ npm run start / yarn run start
 
 
 <h2>File .env</h2>
-<p>to have client_id and client_secret, you must to create a Oauth Apps in developer settings </p>
+<p>to have client_id and client_secret, you must to create a Oauth Apps in developer settings so you're goint to copy.</p>
 
-configuration: 
+Configuration:
 
 ```
 Application name: name you want
@@ -72,7 +72,6 @@ Application name: name you want
 
 ```
 Homepage URL: http://localhost:3000
-
 ```
 
 ```
@@ -86,14 +85,14 @@ DATABASE_URL="file:./dev.db"
 
 ```
 #  Github (web)
-GITHUB_CLIENT_ID=123456789 
-GITHUB_CLIENT_SECRET="1234567890abcdefg1234"
+GITHUB_CLIENT_ID=123456789 ``` This number is example ```
+GITHUB_CLIENT_SECRET="1234567890abcdefg1234" ``` This number is example ```
 ```
 
 ```
 # Github (mobile)
-GITHUB_CLIENT_ID=123456789
-GITHUB_CLIENT_SECRET="1234567890abcdefg1234"
+GITHUB_CLIENT_ID=123456789 ``` This number is example ```
+GITHUB_CLIENT_SECRET="1234567890abcdefg1234" ``` This number is example ```
 ```
 
 <h2>attention</h2>
